@@ -15,3 +15,7 @@ print(f"Subtraction is {d}")
 #Multiplication
 e=a*b
 print(f"Multiplication is {e}")
+
+#division
+f=a/b
+print(f"Division is {f}")
